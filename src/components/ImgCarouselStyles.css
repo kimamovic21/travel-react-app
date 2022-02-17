@@ -1,0 +1,14 @@
+.carousel {
+    padding: 2rem 0;
+}
+
+.carousel img {
+    width: 90vh;
+    object-fit: cover;
+}
+
+.thumbs-wrapper {
+    text-align: center;
+    cursor: pointer;
+}
+
